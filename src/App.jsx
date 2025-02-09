@@ -9,7 +9,6 @@ import Create from './Create'
 import Footer from './Footer'
 import CatList from "./CatList";
 import Details from "./Details";
-import ProductList from "./ProductList";
 
 function App() {
 
