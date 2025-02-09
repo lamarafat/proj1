@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.navbar, .footer{
+  background-color: #212529;
+  
+}
+.header, .about, .btn-color{
+  background-color: #1abc9c;
+}
+.custom-hr {
+  width: 200px;
+  height: 10px;
+  background-color: rgb(255, 255, 255);
+  opacity: 1;
+  margin: 20px ;
+  border-radius: 10px;
+}
+.p{
+  background-color: #212529;
+}
+.portfolio{
+  color: #212529;
+}
+.icon{
+  width: 48px;
+  height: 48px;
+  font-size: 24px;
+  border: 1px solid #ffffff;
+  border-radius: 100%;
+}
+
