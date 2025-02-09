@@ -18,9 +18,10 @@ export default function Create() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log('Product Added:', formData); 
+    console.log('Product Added:', formData); // Log the form data instead of making an API call
     alert('Product added successfully!');
     
+    // Reset form after submission
     setFormData({
       name: '',
       description: '',
